@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'League Gothic';
+  src: url('../assets/LeagueGothic-Regular.woff') format('woff2');
+}
+
+@font-face {
+  font-family: 'League Spartan';
+  src: url('../assets/LeagueSpartan-Light.woff2');
+}
+
+@font-face {
+  font-family: 'Goudy Sorts Mill';
+  src: url('../assets/GoudyStM-webfont.woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('../assets/Raleway-Regular.woff2');
+}
+
+body {
+  font-family: 'Raleway', sans;
+  color: #222;
+  font-size: 22px;
+  line-height: 1.2;
+  background-color: #fcfcfc;
+  margin-bottom: 100px;
+}
+
+body a {
+  color: #222;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+body a:hover {
+  text-decoration: underline;
+}
+
+#header {
+  margin: 0 auto 0 auto;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+}
+
+h1, #header h1, h2, h3 {
+  font-family: 'League Spartan', 'sans';
+  text-transform: uppercase;
+  color: #222;
+}
+
+#header ul {
+  list-style: none;
+  margin-right: 20px;
+  margin-left: auto;
+}
+
+#header ul li {
+  font-family: 'League Spartan', 'sans';
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+#header ul li a {
+    color: #666;
+  }
+
+#header a {
+  text-decoration: none;
+}
+
+#header a:hover {
+  text-decoration: underline;
+}
+
+#body {
+  margin: 0 auto 0 auto;
+  max-width: 1200px;
+}
+
+ul.issues {
+  padding-left: 0;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1%;
+}
+
+ul.issues li {
+  list-style: none;
+  width: 32%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+ul.issues li a {
+  font-weight: normal;
+  font-family: 'League Spartan', 'sans';
+  text-transform: uppercase;  
+}
+
+ul.issues li img {
+  max-width: 100%;
+}
+
+.cover-image {
+  margin: 0 auto 20px auto;
+  max-width: 100%;
+}
+
+.main-content {
+  margin: 0 auto 0 auto;
+  max-width: 1000px;
+  display: flex;
+  gap: 5%; 
+}
+
+.gallery, .intro {
+  max-width: 50%;
+  margin-bottom: 20px;
+}
+
+.gallery {
+  order: 1;
+}
+
+.gallery img {
+  width: 100%;
+}
+
+.intro {
+  order: 2;
+}
+
+.about-content {
+  display: flex;
+  gap: 5%;
+}
+
+.about-img {
+  max-width: 40%;
+}
+
+.about-text {
+  max-width: 60%;
+}
+
+.about-img img {
+  width: 100%;
+}
+
+@media (max-width:650px) {
+  .main-content {
+    display: block;
+    width: 100%;
+  }
+  .gallery, .intro {
+    max-width: 100%;
+    padding: 10px;
+  }
+  
+  .about-content {
+    display: block;
+    padding: 10px;
+  }
+  
+  .about-img {
+    max-width: 100%;
+  }
+  
+  .about-text {
+    max-width: 100%;
+  }
+}

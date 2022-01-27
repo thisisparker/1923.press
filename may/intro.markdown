@@ -1,0 +1,11 @@
+# May
+
+The May issue of _1923_ is the first to look explicitly outside the borders of the United States, composed of excerpts, images, and poems from the three issues of _Irradiador_ , a short run published at the end of 1923 by a group of Mexican futurists known as “ _los estridentistas_ ,” or the Stridentists. They were an innovative group; in [_Mexico’s Revolutionary Avant-Gardes_](https://yalebooks.yale.edu/book/9780300184488/mexicos-revolutionary-avant-gardes), scholar Tatiana Flores refers to Stridentism as “Mexico’s first self-acknowledged avant-garde movement.”
+
+The Stridentists burst onto the scene in 1921 with a publication titled _Actual No. 1_ , by the poet Manuel Maples Arce. That manifesto, and their subsequent work, established Stridentism as “one of several proposals for cultural transofrmation that contributed to Mexico’s energized and politically charged cultural environment during dist critical first postrevolutionary decade,” according to Linda Klich’s book [_The Noisemakers: Estridentismo, Vanguardism, and Social Action in Post-Revolutionary Mexico_](https://www.ucpress.edu/book/9780520296404/the-noisemakers).
+
+Per Klich, _Irradiador_ was distinguished in both its content and its form—in her words, the journal “served as an important site for the Estridentistas’ drive to forge a revolutionary spirit through its revolutionary form.” The woodcuts, for example, that feature in its pages and are reproduced in this issue of _1923_ , represent a conscious update to a classic form of indigenous craft and folk art, tying Mexican tradition to a new “mass culture of cinema and jazz.”
+
+In general as a movement, and in particular with _Irradiador_ , the Stridentists focused on technologies of communication and transportation, in an effort to urge the state into supporting projects of infrastructural development. The middle pages of this issue of the zine show a detail from an advertisement from El Buen Tono cigarettes—the only advertiser in the journal—that represented the company’s first foray into modernist visual forms, and that coincided with its launch of a radio station of its own.
+
+[All three issues of _Irradiador_](https://monoskop.org/Irradiador), and [more works associated with the Stridentists](https://monoskop.org/Estridentismo), are available from [Monoskop](https://monoskop.org/Monoskop).
