@@ -6,7 +6,7 @@ import markdown2
 from dominate.tags import *
 from dominate.util import raw
 
-ROOT = 'https://thisisparker.github.io/1923.press'
+ROOT = 'https://1923.press'
 
 def get_template(page_title, card_image, page_desc, include_lightbox=False):
     doc = html()
