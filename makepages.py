@@ -61,7 +61,7 @@ def do_month(mon):
     doc = get_template(pt, 
                        include_lightbox=True, 
                        card_image=ROOT+'/'+mon+'/cover-crop.jpg',
-                       page_desc=f'The {mon} issue of 1923, a monthly zine of public domain treasures.')
+                       page_desc=f'The {mon.title()} issue of 1923, a monthly zine of public domain treasures.')
 
     pdf_link = '1923_issue{}.pdf'.format(month_dict[mon])
 
