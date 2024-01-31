@@ -95,6 +95,11 @@ ul.issues li img {
   max-width: 100%;
 }
 
+ul.issues li a:hover img {
+  transition: all 0.2s ease-in-out;
+  filter: brightness(50%);
+}
+
 .cover-image {
   margin: 0 auto 20px auto;
   max-width: 100%;
